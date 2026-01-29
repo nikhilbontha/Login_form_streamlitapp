@@ -184,7 +184,7 @@ st.divider()
 
 #table method to display data in tabular format
 data = {
-    'Name': ['Anurag', 'Sumit', 'Rohit'],
+    'Name': ['nikhil','nani','varun'],
     'Age': [21, 22, 20],
     'Course': ['B.Tech', 'M.Tech', 'BBA']
 }
